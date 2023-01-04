@@ -1,0 +1,2 @@
+# syncProcess
+ Projeto utilizado semaforos
